@@ -1,5 +1,9 @@
 # for-rpa-recruitment
 
+## result:
+
+[!img](https://github.com/BoxDengJZ/for-rpa-recruitment/blob/main/result/one.PNG?raw=true)
+
 researchpanelasia/rpa-recruitment
 
 1, Swift 的命名空间，不支持 "MyGreeter.Client" == "\(type(of: greeter))"
