@@ -2,7 +2,7 @@
 
 ## result:
 
-[!img](https://github.com/BoxDengJZ/for-rpa-recruitment/blob/main/result/one.PNG?raw=true)
+![img](https://github.com/BoxDengJZ/for-rpa-recruitment/blob/main/result/one.PNG?raw=true)
 
 researchpanelasia/rpa-recruitment
 
