@@ -17,9 +17,21 @@ enum TimeState: String{
 
 class MyGreeter{
     class Client{
+        
+        var testDate: Date?
+        
+        var date: Date{
+            if let testMoment = testDate{
+                return testMoment
+            }
+            else{
+                return Date()
+            }
+        }
+        
+        
         @discardableResult
         func getGreeting() -> String{
-            let date = Date()
             let moment = date.getFormattedDate(format: "HH")
             var now = TimeState.evening
             if let hour = Int(moment){
